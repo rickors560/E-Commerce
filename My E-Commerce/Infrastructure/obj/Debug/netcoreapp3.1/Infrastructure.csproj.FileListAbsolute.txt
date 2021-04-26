@@ -1,0 +1,12 @@
+C:\C# Assignment3\E-Commerce\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\C# Assignment3\E-Commerce\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\C# Assignment3\E-Commerce\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\C# Assignment3\E-Commerce\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+C:\C# Assignment3\E-Commerce\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+C:\C# Assignment3\E-Commerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\C# Assignment3\E-Commerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\C# Assignment3\E-Commerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\C# Assignment3\E-Commerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\C# Assignment3\E-Commerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\C# Assignment3\E-Commerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\C# Assignment3\E-Commerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

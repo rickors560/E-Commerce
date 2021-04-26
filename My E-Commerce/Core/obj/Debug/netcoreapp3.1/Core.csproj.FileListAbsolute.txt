@@ -1,0 +1,8 @@
+C:\C# Assignment3\E-Commerce\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\C# Assignment3\E-Commerce\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\C# Assignment3\E-Commerce\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\C# Assignment3\E-Commerce\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\C# Assignment3\E-Commerce\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\C# Assignment3\E-Commerce\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\C# Assignment3\E-Commerce\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\C# Assignment3\E-Commerce\Core\obj\Debug\netcoreapp3.1\Core.pdb

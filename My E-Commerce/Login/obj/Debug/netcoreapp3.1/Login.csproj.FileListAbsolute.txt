@@ -1,0 +1,14 @@
+C:\C# Assignment3\E-Commerce\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\C# Assignment3\E-Commerce\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\C# Assignment3\E-Commerce\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\C# Assignment3\E-Commerce\Login\bin\Debug\netcoreapp3.1\Core.dll
+C:\C# Assignment3\E-Commerce\Login\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\C# Assignment3\E-Commerce\Login\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\C# Assignment3\E-Commerce\Login\bin\Debug\netcoreapp3.1\Core.pdb
+C:\C# Assignment3\E-Commerce\Login\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache
+C:\C# Assignment3\E-Commerce\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\C# Assignment3\E-Commerce\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\C# Assignment3\E-Commerce\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\C# Assignment3\E-Commerce\Login\obj\Debug\netcoreapp3.1\Login.csproj.CopyComplete
+C:\C# Assignment3\E-Commerce\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\C# Assignment3\E-Commerce\Login\obj\Debug\netcoreapp3.1\Login.pdb
