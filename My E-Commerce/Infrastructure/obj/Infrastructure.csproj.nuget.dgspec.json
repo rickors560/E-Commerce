@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# Assignment3\\E-Commerce\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\C# Assignment3\\My E-Commerce\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj": {
+    "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj",
+        "projectPath": "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\S S INFOTECH\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Assignment3\\E-Commerce\\Core\\obj\\",
+        "outputPath": "C:\\C# Assignment3\\My E-Commerce\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\S S INFOTECH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\C# Assignment3\\E-Commerce\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\C# Assignment3\\My E-Commerce\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Assignment3\\E-Commerce\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\C# Assignment3\\My E-Commerce\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\C# Assignment3\\E-Commerce\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\C# Assignment3\\My E-Commerce\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\S S INFOTECH\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Assignment3\\E-Commerce\\Infrastructure\\obj\\",
+        "outputPath": "C:\\C# Assignment3\\My E-Commerce\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\S S INFOTECH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj": {
-                "projectPath": "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj"
+              "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj": {
+                "projectPath": "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj"
               }
             }
           }

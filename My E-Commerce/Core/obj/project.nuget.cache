@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aP0VsiAp2LIeuzmfHWic6BDBmiwaV+Bxrt4gw8vBBktwyzDe4pNbL5ZRSVIe33FcSsWQZO0oGS0ukugK2RFD0w==",
+  "dgSpecHash": "XXPgBB2bbUyq2M9UdOY0RVExdzPTsAEp7EWvlIGzK7iRMt7c+fltrxEb1r6qE/vPx/KRYWmEWYQQcl2xl+5gxw==",
   "success": true,
-  "projectFilePath": "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj",
+  "projectFilePath": "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

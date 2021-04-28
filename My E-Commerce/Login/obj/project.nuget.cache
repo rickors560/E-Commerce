@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wgbmHQCwp4iiLwD90L/IDn+Oymq1PYP16DN+IxEQh5L4ye8In8Ors7FJBVqdQTbowO+QroTr65ClPEaI4oMPZg==",
+  "dgSpecHash": "IWxzcuSqm6ChO3/NlTjagjs6w7Q8CKYdWEJYbjO3FErYuM9wqjt3UyR8fivC98s++7Ebz4TLXPfiZ89+8Buzeg==",
   "success": true,
-  "projectFilePath": "C:\\C# Assignment3\\E-Commerce\\Login\\LoginManager.csproj",
+  "projectFilePath": "C:\\C# Assignment3\\My E-Commerce\\Login\\LoginManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

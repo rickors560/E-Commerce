@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj": {}
+    "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj": {
+    "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\C# Assignment3\\E-Commerce\\Core\\Core.csproj",
+        "projectPath": "C:\\C# Assignment3\\My E-Commerce\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\S S INFOTECH\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Assignment3\\E-Commerce\\Core\\obj\\",
+        "outputPath": "C:\\C# Assignment3\\My E-Commerce\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\S S INFOTECH\\AppData\\Roaming\\NuGet\\NuGet.Config",

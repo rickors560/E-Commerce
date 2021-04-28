@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C# Assignment3\\E-Commerce\\Login\\LoginManager.csproj",
+      "projectUniqueName": "C:\\C# Assignment3\\My E-Commerce\\Login\\LoginManager.csproj",
       "projectName": "LoginManager",
-      "projectPath": "C:\\C# Assignment3\\E-Commerce\\Login\\LoginManager.csproj",
+      "projectPath": "C:\\C# Assignment3\\My E-Commerce\\Login\\LoginManager.csproj",
       "packagesPath": "C:\\Users\\S S INFOTECH\\.nuget\\packages\\",
-      "outputPath": "C:\\C# Assignment3\\E-Commerce\\Login\\obj\\",
+      "outputPath": "C:\\C# Assignment3\\My E-Commerce\\Login\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S S INFOTECH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\C# Assignment3\\E-Commerce\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\C# Assignment3\\E-Commerce\\Infrastructure\\Infrastructure.csproj"
+            "C:\\C# Assignment3\\My E-Commerce\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\C# Assignment3\\My E-Commerce\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
