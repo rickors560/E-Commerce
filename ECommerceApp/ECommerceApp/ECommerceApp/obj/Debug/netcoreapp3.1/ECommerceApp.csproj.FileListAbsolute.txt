@@ -1,0 +1,12 @@
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.exe
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.deps.json
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.runtimeconfig.json
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.runtimeconfig.dev.json
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.dll
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.pdb
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.AssemblyInfoInputs.cache
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.AssemblyInfo.cs
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.dll
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.pdb
+C:\C# Assignment3\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.genruntimeconfig.cache
